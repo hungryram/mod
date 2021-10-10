@@ -225,5 +225,3 @@ fields:
     label: Filter Animation
   label: Search Field
   description: This modifies the search filter on the non IDX listing page.<br><em>www.yourwebsite.com/listings</em>
-pages:
-- data/appearance.yml
