@@ -1,0 +1,30 @@
+---
+company_name: Hugo Modules
+social_media:
+  instagram: ramdettmer
+  twitter: ''
+  facebook: ''
+  pinterest: ''
+  yelp: ''
+  linkedin: ''
+  tiktok: ''
+  youtube: ''
+contact_information:
+  license: ''
+  name: ''
+  phone: ''
+  cell: ''
+  email: ''
+  address: ''
+  city: ''
+  state: ''
+  zip_code: ''
+  google_page_link: ''
+search_engine_optimization:
+  title_tag: ''
+  meta_description: ''
+  no_index: false
+  twitter_card:
+    twitter_username: ''
+  facebook:
+    app_id: ''
