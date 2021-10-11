@@ -23,7 +23,7 @@ year_built = ""
 listing_agent = []
 [menu.main]
 name = "title"
-weight = 2
+weight = 1
 [photos]
 gallery = ["/uploads/img_1517.jpg"]
 [search_engine_optimization]
