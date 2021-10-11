@@ -6,6 +6,8 @@ github.com/hungryram/re-template-august2021 v0.0.0-20211010193903-92a22e532ce9 h
 github.com/hungryram/re-template-august2021 v0.0.0-20211010193903-92a22e532ce9/go.mod h1:Z27FhCmPeYXZ4iPtcDurJ1WcDD11YBtK2uoQvRZyvhQ=
 github.com/hungryram/re-template-august2021 v0.0.0-20211011060903-b692f053c362 h1:g0p46MlAZzCmpIsfeg45INGIoaw1nL9Z+HoRwf6bsn8=
 github.com/hungryram/re-template-august2021 v0.0.0-20211011060903-b692f053c362/go.mod h1:Z27FhCmPeYXZ4iPtcDurJ1WcDD11YBtK2uoQvRZyvhQ=
+github.com/hungryram/re-template-august2021 v0.0.0-20211011075100-97d28bbe4b1f h1:6JHIfPZnK54qS+6OgqJJAn0/12TWPHdLyp7JEWHt7IQ=
+github.com/hungryram/re-template-august2021 v0.0.0-20211011075100-97d28bbe4b1f/go.mod h1:Z27FhCmPeYXZ4iPtcDurJ1WcDD11YBtK2uoQvRZyvhQ=
 github.com/hungryram/yooripark2021 v0.0.0-20210927183957-7e7300ce7902 h1:bnAeNNpoXdOv5RECnW+Hnx1yZ7wpwj5b9GddtGredGs=
 github.com/hungryram/yooripark2021 v0.0.0-20210927183957-7e7300ce7902/go.mod h1:0PVHwvnnpUJO53jbgRS3XBO0UwahdGHUjfmC7oRd7kQ=
 github.com/twbs/icons v1.5.0 h1:mFxEKeYHAaWdtp6mQiKct8biCqCO2G87EAhF3skpRvU=
