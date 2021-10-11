@@ -11,3 +11,7 @@ source = "content/blog"
 target = "content/blog"
 [menus]
   _merge = 'shallow'
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
