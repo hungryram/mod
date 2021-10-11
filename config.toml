@@ -9,7 +9,5 @@ path = "github.com/hungryram/yooripark2021"
 [[ module.imports.mount ]]
 source = "content/blog"
 target = "content/blog"
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+[menus]
+  _merge = 'shallow'
