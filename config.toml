@@ -15,5 +15,5 @@ path = "github.com/hungryram/yooripark2021"
 source = "content/blog"
 target = "content/blog"
 [[module.imports.mount]]
-source = ".forestry"
-target = ".forestry"
+source = ".forestry/front_matter/templates"
+target = ".forestry/front_matter/templates"
