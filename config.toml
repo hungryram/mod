@@ -14,3 +14,6 @@ path = "github.com/hungryram/yooripark2021"
 [[module.imports.mount]]
 source = "content/blog"
 target = "content/blog"
+[[module.imports.mount]]
+source = ".forestry"
+target = ".forestry"
