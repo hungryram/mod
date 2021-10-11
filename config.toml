@@ -1,17 +1,16 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-[module]
-[[module.imports]]
-path = "github.com/hungryram/re-template-august2021"
-[[ module.imports ]]
-path = "github.com/hungryram/yooripark2021"
-[[ module.imports.mount ]]
-source = "content/blog"
-target = "content/blog"
-[menus]
-  _merge = 'shallow'
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
+[menus]
+_merge = "shallow"
+[[module.imports]]
+path = "github.com/hungryram/re-template-august2021"
+[[module.imports]]
+path = "github.com/hungryram/yooripark2021"
+[[module.imports.mount]]
+source = "content/blog"
+target = "content/blog"
