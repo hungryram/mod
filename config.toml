@@ -7,13 +7,15 @@ url = "/"
 weight = 2
 [menus]
 _merge = "none"
+[module]
 [[module.imports]]
 path = "github.com/hungryram/re-template-august2021"
+[[module.imports.mount]]
+source = ".forestry/front_matter/templates"
+target = ".forestry/front_matter/templates"
+
 [[module.imports]]
 path = "github.com/hungryram/yooripark2021"
 [[module.imports.mount]]
 source = "content/blog"
 target = "content/blog"
-[[module.imports.mount]]
-source = ".forestry/front_matter/templates"
-target = ".forestry/front_matter/templates"
