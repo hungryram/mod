@@ -14,6 +14,7 @@ path = "github.com/hungryram/yooripark2021"
 [[module.imports.mount]]
 source = "content/blog"
 target = "content/blog"
+<<<<<<< HEAD
 [[module.imports.mount]]
 source = "content/"
 target = "content/"
@@ -23,3 +24,5 @@ target = "content/"
 name = "Home"
 url = "/"
 weight = 1
+=======
+>>>>>>> 8522a25d60d0a4d9034074511d8a53f539a625b6
