@@ -1,6 +1,6 @@
 module mod3
 
-go 1.17
+go 1.19
 
 require (
 	github.com/hungryram/complete-muscle-therapy v0.0.0-20210925185153-b6cd74c6a9a1 // indirect
